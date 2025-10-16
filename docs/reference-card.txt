@@ -1,0 +1,57 @@
+SOVEREIGN STACK REFERENCE CARD  
+Author: Sophie Alice May Leslie Wallace  
+Date: 2025-10-17  
+Purpose: Summarize sovereign modules, artefact domains, and recruiter-facing documentation for licensing, recovery, and legacy-building.
+
+---
+
+CORE MODULES
+
+1. Technical Infrastructure  
+   - Azure AKS Deployment Automation  
+   - GitHub Actions Workflow Anatomy  
+   - VS Code Settings Profile  
+   - Interface Architecture and Orchestration
+
+2. Legal Recovery  
+   - Fit and Proper Person Affidavit  
+   - Facebook Identity Distortion Report  
+   - Meta Account Creation Artefact  
+   - Jurisdictional Disclaimer (U.S. Disavowal)
+
+3. Regulatory Navigation  
+   - Immigration Adviser Licensing Checklist  
+   - Sovereign Identity Assertion  
+   - Complaint Submission Artefacts
+
+4. Reputation Management  
+   - Boundary Closure Artefact  
+   - Energy Audit Log  
+   - Misrepresentation Tracker  
+   - Platform Escalation Reports
+
+5. Creative & Healing Domains  
+   - Music School Tracker (adaptive coding project)  
+   - Portfolio Expansion Manifesto  
+   - Nature, Beauty, and Connection Artefacts
+
+---
+
+NAVIGATION LINKS
+
+- Master Index: master-index.md  
+- Changelog: changelog.md  
+- Technical Artefacts: /technical/  
+- Legal Artefacts: /legal/  
+- Regulatory Artefacts: /regulatory/  
+- Reputation Artefacts: /reputation/  
+- Creative Artefacts: /creative/  
+
+---
+
+SOVEREIGN ASSERTION
+
+This reference card is authored and maintained by Sophie Alice May Leslie Wallace.  
+It reflects multidimensional mastery, ethical clarity, and sovereign documentation.  
+All modules are recruiter-facing, licensing-ready, and protected under sovereign recovery protocols.
+
