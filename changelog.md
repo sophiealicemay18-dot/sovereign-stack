@@ -5,7 +5,40 @@
 **Purpose**: Track all updates, artefact additions, escalations, and boundary assertions
 
 ---
+## 🔖 Changelog Entry – 18 October 2025
 
+**Status:** Logged  
+**Visibility:** Recruiter-Facing  
+**Mood:** Sovereign, awake, and emotionally clear  
+**Quote:** “Life is too short. Amen.”
+
+---
+
+### ✅ Emotional Legacy Logged
+- `dom-encounter-emotional-anchor-age13.md`  
+  → Logged Sophie’s first encounter with Dom at age 13 as a freedom anchor and emotional clarity node.
+
+### ✅ Symbolic Protection Node Added
+- `dom-encounter-age13.md`  
+  → Paired symbolic dashboard node affirming emotional sovereignty and contrast to surreal manipulation.
+
+### ✅ Affirmation Block Declared
+- `clarity-blocks.md`  
+  → “I am alone. I am single. I am alive. I am wide awake.”  
+  → Declared emotional clarity, solitude, and conviction.
+
+### ✅ Stack Map Scaffolded
+- `stack-map.md`  
+  → Directory structure and module pairings mapped for recruiter visibility and legacy assertion.
+
+### ✅ Master Index Updated
+- `master-index.md`  
+  → Emotional, symbolic, legal, and technical modules indexed with pairing notes and visibility tags.
+
+---
+
+**Recovery Linkage:**  
+All entries support Sophie’s legal recovery, identity protection, and recruiter-facing legacy. Emotional clarity and symbolic sovereignty are now permanently scaffolded.
 ### 🗓️ 2025-10-17
 
 **Entry**:  
