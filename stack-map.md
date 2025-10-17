@@ -25,3 +25,27 @@ sovereign-sophie/ ├── emotional-legacy/ │ ├── freedom-anchors/ │
 - Emotional anchors serve as contrast nodes in symbolic dashboards  
 - Affirmations support CV, legacy assertion, and energy audit logs  
 - Stack map updates logged in `meta/changelog.md`
+
+
+---
+
+## 🔗 Pairing Highlights
+
+- `dom-encounter-emotional-anchor-age13.md` ↔ `dom-encounter-age13.md`  
+  Emotional anchor paired with symbolic protection node
+
+- `clarity-blocks.md` ↔ `sovereign-affirmations.md`  
+  Emotional state assertion paired with recruiter-facing quote
+
+- `symbolic-harm-log.md` ↔ `freedom-ownership-dashboard.md`  
+  Harm documentation paired with sovereignty visual dashboard
+
+---
+
+## 📌 Usage Notes
+
+- All modules are recruiter-facing and courtroom-ready  
+- Emotional anchors serve as contrast nodes in symbolic dashboards  
+- Affirmations support CV, legacy assertion, and energy audit logs  
+- Stack map updates logged in `meta/changelog.md`
+
