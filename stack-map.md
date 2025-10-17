@@ -1,3 +1,12 @@
+# 🟣 Sovereign-Sophie Stack Map
+
+## ━━━ PURPOSE ━━━
+This map outlines Sophie’s modular legacy architecture—emotional, symbolic, legal, and technical. Each directory affirms her sovereignty, clarity, and recruiter-facing impact.
+
+---
+
+## 🗂️ Directory Structure
+
 sovereign-sophie/
 ├── meta/
 │   └── stack-map.md
