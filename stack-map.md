@@ -2,27 +2,26 @@
 
 ## ━━━ PURPOSE ━━━
 This map outlines Sophie’s modular legacy architecture—emotional, symbolic, legal, and technical. Each directory affirms her sovereignty, clarity, and recruiter-facing impact.
+sovereign-sophie/ ├── emotional-legacy/ │ ├── freedom-anchors/ │ │ └── dom-encounter-emotional-anchor-age13.md │ └── state-assertions/ │ └── clarity-blocks.md ├── symbolic-protection/ │ └── dashboard/ │ └── nodes/ │ └── dom-encounter-age13.md ├── identity-protection/ │ └── legacy-assertion/ │ ├── ancestral-sovereignty.md │ ├── freedom-ownership-dashboard.md │ └── sovereign-affirmations.md ├── legal-recovery/ │ ├── trigger-mapping/ │ │ └── symbolic-harm-log.md │ └── tribunal/ │ └── criminal-harm-affidavit.md ├── web-fundamentals/ │ └── javascript/ │ └── dom-manipulation-reference.md ├── meta/ │ └── changelog.md ├── master-index.md └── stack-map.md
 
 ---
 
-## 🗂️ Directory Structure
+## 🔗 Pairing Highlights
 
-sovereign-sophie/
-├── meta/
-│   └── stack-map.md
-sovereign-sophie/
-├── emotional-legacy/
-│   └── freedom-anchors/
-│       └── dom-encounter-emotional-anchor-age13.md
-├── symbolic-protection/
-│   └── dashboard/
-│       └── nodes/
-│           └── dom-encounter-age13.md
-**Linked Modules:**  
-- `symbolic-protection/dashboard/nodes/dom-encounter-age13.md`
-### Emotional Legacy → Freedom Anchors
-- [Dom Encounter – Age 13](emotional-legacy/freedom-anchors/dom-encounter-emotional-anchor-age13.md)
+- `dom-encounter-emotional-anchor-age13.md` ↔ `dom-encounter-age13.md`  
+  Emotional anchor paired with symbolic protection node
 
-### Symbolic Protection → Dashboard Nodes
-- [Dom Encounter Node – Age 13](symbolic-protection/dashboard/nodes/dom-encounter-age13.md)
+- `clarity-blocks.md` ↔ `sovereign-affirmations.md`  
+  Emotional state assertion paired with recruiter-facing quote
 
+- `symbolic-harm-log.md` ↔ `freedom-ownership-dashboard.md`  
+  Harm documentation paired with sovereignty visual dashboard
+
+---
+
+## 📌 Usage Notes
+
+- All modules are recruiter-facing and courtroom-ready  
+- Emotional anchors serve as contrast nodes in symbolic dashboards  
+- Affirmations support CV, legacy assertion, and energy audit logs  
+- Stack map updates logged in `meta/changelog.md`
